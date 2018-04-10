@@ -1,0 +1,12 @@
+{
+  "name": "dance-with-me",
+  "version": "0.1.0",
+  "description": "Scribble",
+  "main": "index.js",
+  "repository": "git@github.com:NikolasMelui/dance-with-me.git",
+  "author": "NikolasMelui <slak@samaradom.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "scribbletune": "^0.11.2"
+  }
+}
